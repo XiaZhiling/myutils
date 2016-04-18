@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class Log4jTest {
 	
-	private static Logger log = Logger.getLogger(Log4jTest.class.getName());
+	private static Logger log = Logger.getLogger(Log4jTest.class);
 	
 	@Test
 	public void testLog(){
