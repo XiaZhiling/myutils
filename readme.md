@@ -9,3 +9,4 @@
 	2.EncryptUtil--加密算法
 		-SHA1 加密
 		-MD5 加密
+###xml报文的解析
